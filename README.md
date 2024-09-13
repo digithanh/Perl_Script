@@ -1,10 +1,15 @@
 
 ---
-1. [__Download HTML page__](https://github.com/digithanh/Perl_Script/tree/02008711290a3a3868520af47bd4c9887602b5c7/get_webpage)
-> Cette script Perl utilise LWP::UserAgent pour télécharger le contenu d'une page web spécifiée en ligne de commande, affichant le résultat dans la console.
+1. [__Download HTML page & Image__]()
+> Le script Perl get_webpage.pl utilise LWP::UserAgent pour télécharger le contenu d'une page web spécifiée en ligne de commande, affichant le résultat dans la console.
 
 Exemple d'utilisation :
 perl get_webpage.pl https://example.com
+
+> Le script Perl get_webimage.pl est conçu pour télécharger des images depuis une URL donnée et les sauvegarder localement sous un nom spécifié.
+
+Exemple d'utilisation :
+perl get_webimage.pl 'https://exemple.com/image.jpg' local_image.jpg'
 
 2. [__Verifier si fichier existe__]()
 > Vérifier si les fichiers existent via une liste de fichier dans un tableau.
