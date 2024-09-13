@@ -1,6 +1,6 @@
 
 ---
-1. [__Download HTML page__]()
+1. [__Download HTML page__](https://github.com/digithanh/Perl_Script/blob/c3baa691dccf4826207696e372ac43457fd6f5dd/get_web/get_webpage.pl)
 
 Ce script Perl utilise la bibliothèque LWP::UserAgent pour télécharger et afficher le contenu d'une page web spécifiée via URL. 
 Voici ses principales caractéristiques :
@@ -15,7 +15,7 @@ Voici ses principales caractéristiques :
 
 - Le script gère également des erreurs potentielles lors de la récupération de la page.
 
-2. [__Download Image__]()
+2. [__Download Image__](https://github.com/digithanh/Perl_Script/blob/c3baa691dccf4826207696e372ac43457fd6f5dd/get_web/get_webimage.pl)
 ### Description
 
 Ce script Perl est conçu pour télécharger des images depuis une URL donnée et les sauvegarder localement sous un nom spécifié.
