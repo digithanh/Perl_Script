@@ -10,3 +10,11 @@ perl get_webpage.pl https://example.com
 
 Exemple d'utilisation :
 perl get_webimage.pl 'https://exemple.com/image.jpg' local_image.jpg'
+
+2. [__File procces__](https://github.com/digithanh/Perl_Script/tree/f9c136c21e0c1a0ae06e396b47f4c9b80b20d157/file_processor)
+> Le script Perl permet de rechercher des mots spécifiques dans des fichiers texte.
+
+Exemple d'utilisation :
+```
+perl regex_file.pl chemin_du_fichier "mot_a_rechercher"
+```
